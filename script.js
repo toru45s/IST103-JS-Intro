@@ -5,8 +5,8 @@ const fullName = firstName + lastName;
 const age = 100;
 const hasWorkVisa = true;
 
-console.log(firstName);
-console.log(lastName);
-console.log(fullName);
-console.log(age);
-console.log(hasWorkVisa);
+console.log("firstName is " + firstName);
+console.log("lastName is " + lastName);
+console.log("fullName is " + fullName);
+console.log("age is " + age);
+console.log("hasWorkVisa is " + hasWorkVisa);
